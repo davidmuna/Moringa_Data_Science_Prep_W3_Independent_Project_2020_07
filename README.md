@@ -6,7 +6,7 @@
 In this project, I worked as a Data Scientist for MTN Cote d'Ivoire, a leading telecom company and helped in  solving the 
 following research question.
 #Currently MTN Cote d'Ivoire would like to upgrade its technology infrastructure for its mobile users in Ivory Coast. 
-Studying the given dataset, how does MTN Cote d'Ivoire go about the upgrade of its infrastructure strategy within the given cities?
+Studying the given dataset, I identify and recommend how MTN Cote d'Ivoire go about the upgrade of its infrastructure strategy within the given cities based on the findings of the analysis
 ##My final deliverable was a Data Report which comprised the following sections;
 Business Understanding 
 Data Understanding 
